@@ -1,3 +1,3 @@
 # Veggie-garden
-Somewhere to test and play, pull weeds, plant seeds, and watch them grow
-Here are some brach-off edits
+Somewhere to test and play, pull weeds, plant seeds, and watch them grow. 
+Here are some branch-off edits
